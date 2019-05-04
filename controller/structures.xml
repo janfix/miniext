@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="miniext_main" name="extension Explo" level="15" group="main">
+		<description />
+		<sections>
+			<section id="miniext_main" name="extension Explo" url="/miniext/Miniext/index" />
+			<section id="miniext_other" name="Template" url="/miniext/Miniext/templateExample" />
+		</sections>
+	</structure>
+</structures>
