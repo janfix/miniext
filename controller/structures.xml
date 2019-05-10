@@ -3,9 +3,11 @@
 <structures>
 	<structure id="miniext_main" name="extension Explo" level="15" group="main">
 		<description />
+		<icon id="icon-document"/>
 		<sections>
 			<section id="miniext_main" name="extension Explo" url="/miniext/Miniext/index" />
 			<section id="miniext_other" name="Template" url="/miniext/Miniext/templateExample" />
+			<section id="miniext_different" name="Goto" url="/miniext/Miniext/templatebis" />
 		</sections>
 	</structure>
 </structures>
